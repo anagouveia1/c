@@ -1,0 +1,13 @@
+= Bleep
+
+== Answers
+
+1. It censors those adorable words because they have a 4th character that is repeated, hence the program probably recognizes them as a 4-letter word. I've tried some words in portuguese and the pattern seemed to repeat. As if in a way the program does not differentiate characters, and if you've had a repeated one, it could shorten the length of the string.
+
+2. So now, I'm starting to think that as I change the index in the char word[#], the program will allow for kitten to parse, but if I had the word purppy in it, the issue returns. I may be right, huh?
+
+== Debrief
+
+1. I used my guts. Trial and error points a way.
+
+2. 10 mins?

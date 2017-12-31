@@ -1,0 +1,15 @@
+= Abstraction
+
+== Answers
+
+1. Stacks and queues are described as abstract data types because they are independent of implementation. They have a theoretical set of specifications and operations that can be performed on the data within a set but the user does not necessarily know how its internal representation was originally developed.
+
+2. The puzzle piece represents the simple idea of "saying" and can easily be implemented within the program to produce the "action" of speaking.
+
+3. In this case, a string is an abstraction because we don't necessarily know how "the function" was originally developed. It is in the CS50 virtual magic folder. Which by the way, I must say, it really gets me giddy. From what I had understood, a string would have the ability to carry 8bytes aka 8x4=32 bits... Is it then made of some recipe where you've put the pieces of a different data structure together to then work as a framework for different types of structures? Possible, my thoughts are yet just an abstraction.
+
+== Debrief
+
+1. I tried using the class slides but realized that without the video context they were unsatisfactory. Having google as another possible source to do this exam, I've searched it and found some reliable sources that could give me insights that were then associated to what I had previously learned.
+
+2. Maybe about 5 minutes each? Debating between attempting to write what I understood and what I think the answer required was.

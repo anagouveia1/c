@@ -1,0 +1,50 @@
+= Z
+
+== Answers
+
+1. Below:
+
+function getx(value) {}
+x <- getx()
+function gety(value) {}
+//Similarly to the suggestion of $x <- add($x, -$y) Would turning a variable false "turn it negative"?
+//not(y) <- gety() 
+//Following your suggestion though
+sum1 = add($x, -$y)
+sum2 = add(-$x, $y)
+if sum1 < sum2
+{
+return(false)
+}
+elseif sum2 < sum1
+{
+return(false)
+}
+else
+printf('This value should be zero'\n, add1)
+
+2. Here we go:
+
+function getx(value) {}
+x <- getx()
+//Is Z an open source code? Could I create a round up function to determine what is the next integer ending with zero above my input?
+//Say I did that
+$variableRUP = roundup(x, 00.0)
+//Create a string to hold the values in between my x and the next 10 //P.S. It sure does sound like I'm talking about my love life.
+//Gosh I just need a loop.
+if (x) < variableRUP 
+{
+print(x)
+x <- add(x+1)
+}
+{
+else 
+get(alife);
+}
+
+== Debrief
+
+1. Just assignment page.
+
+2. 20 minutes stuck in a looplesshole. I'll still persist, hopefully next time I'll have a chance to come talk to someone about some of the problems I'm needing help with. 
+//Happy Spring Break and Snow day tomorrow!

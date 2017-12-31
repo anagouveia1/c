@@ -1,0 +1,21 @@
+= Tradeoffs
+
+== Answers
+
+1a. A circular foundation, x is its radius and y is the angle for which I'd like to form its arc boundary.
+
+1b. It is an orthogonal coordinate.
+
+1c. It is an elegant solution to a circular problem.
+
+2a. Same problem, x is an integer, y is irrational.
+
+2b. X is easy to understand, we can measure.
+
+2c. Y is just a percentage of the pie you'd like to eat.
+
+== Debrief
+
+1. Course materials, previous studies.
+
+2. 5 min.

@@ -1,0 +1,13 @@
+= Insecurity
+
+== Answers
+
+1. How fast can you iterate through a combination of 8 digits? Probably faster than if you were to include a few other characters. Not sure how someone can use that to hack through this file, but this is probably why this is a bit unsecure.
+
+2. Process started, now it's a matter of picking my battles. I'm on Beast Mode but I think missing on some lectures and problem sets won't help me here, right? Well, I need to take an argument, which is a certain text... we'll go on, and return here if time is available.
+
+== Debrief
+
+1. Week 1 lecture and the argv1.c I had developed is a start. There problably is a couple of other things I could be digging to finish this, but in the sake of points rather than understanding this I'll march on. Be back when I can :)
+
+2. About 10 min.

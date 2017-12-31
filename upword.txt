@@ -1,0 +1,15 @@
+= What's Upword?
+
+== Answers
+
+1. Yes.
+
+2. No, because f does not come before i (though it does in the word too).
+
+3. Am considering the use of a bubble sort mechanism to go through the characters in a word. If this goes through them and doesn't swap any letters, then it will return true. Else, null. How to do it in a short amount of time is the problem. Could it be done though? You know better than me.
+
+== Debrief
+
+1. Lecture slides, lecture notes.
+
+2. 15 min, go to go to the dentist and then work.

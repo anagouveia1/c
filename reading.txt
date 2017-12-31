@@ -1,0 +1,17 @@
+= Reading Someone Else's Code
+
+== Answers
+
+1. Because if a string is empty, you probably don't need it anyways, and you must remind your user that there's a maximum limit to the characters that can be input.
+
+2. The string may expect a sequence of additional arguments which can point to an allocated memory space where the characters extracted can be stored.
+
+3. We declare allocations because a computer has a limited amount of memory. In order to use it we must do it efficiently, loading the needed, unloading the unecessary. 
+
+4. Seems like the function free is unloading your memory.
+
+== Debrief
+
+1. C++ forum along with suggested notes.
+
+2. 10 mins.

@@ -1,0 +1,13 @@
+= Trusting `clang`
+
+== Answers
+
+1. Could I use and Add for == n & N? Not sure. I could try that and see if it works, else I could design a variable to store the values I'd like it to take, ex: new_line=(n,N);
+
+2. At this point, because I'm really not fully knowledgeable in how the fuction was written. Are there any aspects of it that could affect my results? Possibly.
+
+== Debrief
+
+1. Suggested Readings.
+
+2. 5 minutes.

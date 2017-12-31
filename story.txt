@@ -1,0 +1,17 @@
+= Story to Share
+
+== Answers
+
+1. Ok, so Medium uses Bloom filters, which apparently uses of hash functions to identify certain strings of information. It doesn't use an array because that would store information that in a sense the user may not need to access in the future, much of what can be repeated and would yield an infinitely large database.
+
+2. Similarly to the array, if a user has accessed a set of readings, it can go forward, and it doesn't necessarily have to be something as specific as a one topic read but could be a combination of others, which the hash function may assist with.
+
+3. Because that would take a lot of space that can be easily discarded, using a Boom filter Medium has a more dynamic way to access posts read.
+
+4. Because as much as a Bloom filter can be effective in retrieving an input accessed by someone, this is a part of large database for which it must been retrieved.
+
+== Debrief
+
+1. Medium. Pretty cool story and website idea.
+
+2. 20 minutes.

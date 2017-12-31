@@ -1,0 +1,17 @@
+= Restructuring Strings
+
+== Answers
+
+1. An advantage is that you don't need a function such as strlen to determine the number of characters that string has, aka, how many bytes it is taking in your computer. 
+
+2. A disadvantage is that in a source with multiple strings and unknown parameters stored in each of these spaces, it probably would be a lot harder to search for an specific piece of information. What do I mean? You could search by each individual name as a string, but if you have about 100 students in your class you'd need each one of those to be parsed. You could look it up based on their size or alumnus[0], but you'd still need to sort through all the repeated matches.
+
+3. The struggle on this one has been real. I'm trying to use argv1 but I seemed to be missing on a detail, which is, how to store the string in the format we'd like it to.
+
+
+
+== Debrief
+
+1. Class one c files in strings, getting strings, and other values... Sorry had another midterm due last night. This fell through, again. Yay, its spring break, I'll be studying. 
+
+2. About 30min. 
